@@ -17,6 +17,9 @@
 .App-intro {
   font-size: large;
 }
+.App-main{
+  margin-top:55px;
+}
 .App-main-old{
     float: left;
     margin-left: 65px;

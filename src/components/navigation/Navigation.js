@@ -9,6 +9,7 @@ class Navigation extends Component {
           <ul className="nav navbar-nav">            
             <li><Link to="/">Home</Link></li>
             <li><Link to="/servers">Servers</Link></li>
+            <li><Link to="/visibleTodoList">Todo List</Link></li>
           </ul>
         </div>
       </div>

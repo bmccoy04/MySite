@@ -4,7 +4,7 @@ class Servers extends Component {
   render() {
     return (
       <div >
-        Servers
+        Servers added something
       </div>
     );
   }
